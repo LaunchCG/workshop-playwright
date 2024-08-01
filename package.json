@@ -1,0 +1,14 @@
+{
+  "name": "workshop-playwright",
+  "version": "1.0.0",
+  "description": "A Workshop to teach Launch Test Engineers how to build, execute and maintain a JS-Playwright test automation framework",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.45.3",
+    "@types/node": "^22.0.2"
+  }
+}
